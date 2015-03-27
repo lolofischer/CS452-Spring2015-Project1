@@ -1,3 +1,3 @@
-name, date, description
+Emily Dreisbach, 4/2015, Project 1
 
-be sure to include complete details of how to interact with your game, the scoring system, and how to win
+This game ____
